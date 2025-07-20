@@ -19,3 +19,6 @@ A compact, analysis-friendly extraction of the **Degeneration-of-the-Nation** pr
 CC-BY-4.0
 - Hebrew: https://hitdarderut-haaretz.org/license
 - English: https://degeneration-of-nation.org/license
+
+## All datasets
+https://hitdarderut-haaretz.org/dataset
