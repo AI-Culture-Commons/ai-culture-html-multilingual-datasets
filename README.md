@@ -1,7 +1,7 @@
-# multilingual-HTML-dataset
+# ai-culture-html-multilingual-datasets
 [![DOI](https://zenodo.org/badge/1021100370.svg)](https://doi.org/10.5281/zenodo.16001657)
 
-A compact, analysis-friendly extraction of the **Degeneration-of-the-Nation** project:  
+A compact, analysis-friendly extraction of the **AI-Culture-Commons** project:  
 *12-language* corpus at the intersection of **philosophy, culture & literature** with **technology and artificial intelligence**.
 
 ## 🌐 Websites
